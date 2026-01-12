@@ -92,7 +92,7 @@ A fully functional e-commerce web application built using Laravel. The applicati
 2. choose a directory and create a folder 
 3. Clone the project with
    ```bash
-   git clone https://github.com/Pythonista-dev-cyber/Laravel_ecommerce.git
+   git clone https://github.com/Pythonista-dev-cyber/laravel_asian_snack_corner.git
    ```
 4. install composer with
    ```bash
